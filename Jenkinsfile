@@ -4,4 +4,3 @@ pipeline
       git 'https://github.com/razzpothula/game-of-life.git'
     }
   }
-}
