@@ -9,3 +9,4 @@ pipeline
             sh "${mvnhome}/bin/mvn compile"
         }
   }
+}
